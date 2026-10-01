@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "python-rest-api-client",
+      "title": "Python REST API Client",
+      "description": "Use Python requests to fetch JSON from a REST API and display selected data.",
+      "path": "assignments/python-rest-api-client",
+      "dueDate": "2026-10-08",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
